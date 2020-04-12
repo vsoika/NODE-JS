@@ -1,107 +1,34 @@
-const ALL_TASKS = require('./task.memory.repository');
+const tasksRepo = require('./task.memory.repository');
 const All_BOARDS = require('../boards/board.memory.repository');
-const Task = require('./task.model');
 
-const getTaskByBoardId = async (req, res) => {
-  const id = req.params.boardId;
-  const task = ALL_TASKS.tasks.filter(item => item.boardId === id);
-
-  if (task.length) {
-    await res.json(task.map(Task.toResponse));
-  } else {
-    res
-      .status(404)
-      .send({ error: `The board with id ${id} doesn't have any tasks` });
-  }
+const getTaskByBoardId = id => {
+  const task = tasksRepo.getTaskByBoardId(id);
+  return task;
 };
 
-const getTaskByBoardIdAndTaskId = async (req, res) => {
-  const boardId = req.params.boardId;
-  const taskId = req.params.taskId;
-
+const getTaskByBoardIdAndTaskId = (boardId, taskId) => {
   const board = All_BOARDS.boards.find(item => item.id === boardId);
-
-  if (board) {
-    const task = ALL_TASKS.tasks.find(item => item.id === taskId);
-    if (task) {
-      await res.json(Task.toResponse(task));
-    } else {
-      res
-        .status(404)
-        .send({ error: `The task with id ${taskId} doesn't exist` });
-    }
-  } else {
-    res
-      .status(404)
-      .send({ error: `The board with id ${boardId} doesn't exist` });
-  }
+  const task = tasksRepo.getTaskByBoardIdAndTaskId(taskId);
+  return [board, task];
 };
 
-const createTask = async (req, res) => {
-  const id = req.params.boardId;
-  let newTask = req.body;
-  newTask['boardId'] = id;
-  newTask = new Task(newTask);
-  ALL_TASKS.tasks.push(newTask);
-
-  await res.json(Task.toResponse(newTask));
+const createTask = (boardId, body) => {
+  const task = tasksRepo.createTask(boardId, body);
+  return task;
 };
 
-const updateTask = async (req, res) => {
-  const boardId = req.params.boardId;
-  const taskId = req.params.taskId;
-
+const updateTask = (boardId, taskId, body) => {
   const board = All_BOARDS.boards.find(item => item.id === boardId);
-  const updatedTask = req.body;
+  const task = tasksRepo.updateTask(board, taskId, body);
 
-  if (board) {
-    const task = ALL_TASKS.tasks.find(item => item.id === taskId);
-    if (task) {
-      for (const key in board) {
-        if (updatedTask[key]) {
-          task[key] =
-            task[key] !== updatedTask[key] ? updatedTask[key] : task[key];
-        }
-      }
-      await res.json(
-        `The task with id ${taskId} have been updated successfully`
-      );
-    } else {
-      res
-        .status(404)
-        .send({ error: `The task with id ${taskId} doesn't exist` });
-    }
-  } else {
-    res
-      .status(404)
-      .send({ error: `The board with id ${boardId} doesn't exist` });
-  }
+  return [board, task];
 };
 
-const deleteTask = async (req, res) => {
-  const boardId = req.params.boardId;
-  const taskId = req.params.taskId;
+const deleteTask = (boardId, taskId) => {
   const board = All_BOARDS.boards.find(item => item.id === boardId);
+  const task = tasksRepo.deleteTask(board, taskId);
 
-  if (board) {
-    const task = ALL_TASKS.tasks.find(item => item.id === taskId);
-    if (task) {
-      ALL_TASKS.tasks.forEach((item, i) => {
-        if (item.id === taskId) {
-          ALL_TASKS.tasks.splice(i, 1);
-        }
-      });
-    } else {
-      res
-        .status(404)
-        .send({ error: `The task with id ${taskId} doesn't exist` });
-    }
-    await res.json(`The task with id ${taskId} have been deleted successfully`);
-  } else {
-    res
-      .status(404)
-      .send({ error: `The board with id ${boardId} doesn't exist` });
-  }
+  return [board, task];
 };
 
 module.exports = {

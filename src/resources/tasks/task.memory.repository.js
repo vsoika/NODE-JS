@@ -1,29 +1,64 @@
 const Task = require('./task.model');
-const All_USERS = require('../users/user.memory.repository');
-const ALL_BOARDS = require('../boards/board.memory.repository');
 
-const tasks = [
-  new Task({
-    title: 'task1',
-    order: 0,
-    description: 'fix bugs',
-    userId: All_USERS.users[0].id,
-    boardId: ALL_BOARDS.boards[0].id,
-    columnId: ALL_BOARDS.boards[0].columns[0].id
-  }),
-  new Task({
-    title: 'task2',
-    order: 0,
-    description: 'create component',
-    userId: All_USERS.users[1].id,
-    boardId: ALL_BOARDS.boards[1].id,
-    columnId: ALL_BOARDS.boards[1].columns[1].id
-  })
-];
+const tasks = [];
 
-const getAll = () => {
-  return tasks;
+const getTaskByBoardId = id => {
+  const task = tasks.filter(item => item.boardId === id);
+  return task;
 };
 
-module.exports = { getAll };
+const createTask = (boardId, body) => {
+  let newTask = body;
+  newTask['boardId'] = boardId;
+  newTask = new Task(newTask);
+  tasks.push(newTask);
+
+  return newTask;
+};
+
+const getTaskByBoardIdAndTaskId = taskId => {
+  const task = tasks.find(item => item.id === taskId);
+  return task;
+};
+
+const updateTask = (board, taskId, body) => {
+  const task = tasks.find(item => item.id === taskId);
+  const updatedTask = body;
+
+  if (board) {
+    if (task) {
+      for (const key in board) {
+        if (updatedTask[key]) {
+          task[key] =
+            task[key] !== updatedTask[key] ? updatedTask[key] : task[key];
+        }
+      }
+    }
+  }
+
+  return task;
+};
+
+const deleteTask = (board, taskId) => {
+  const task = tasks.find(item => item.id === taskId);
+
+  if (board) {
+    if (task) {
+      tasks.forEach((item, i) => {
+        if (item.id === taskId) {
+          tasks.splice(i, 1);
+        }
+      });
+    }
+  }
+  return task;
+};
+
+module.exports = {
+  getTaskByBoardId,
+  createTask,
+  getTaskByBoardIdAndTaskId,
+  updateTask,
+  deleteTask
+};
 module.exports.tasks = tasks;

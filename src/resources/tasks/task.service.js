@@ -2,8 +2,9 @@ const tasksRepo = require('./task.memory.repository');
 const All_BOARDS = require('../boards/board.memory.repository');
 
 const getTaskByBoardId = id => {
+  const board = All_BOARDS.boards.find(item => item.id === id);
   const task = tasksRepo.getTaskByBoardId(id);
-  return task;
+  return [board, task];
 };
 
 const getTaskByBoardIdAndTaskId = (boardId, taskId) => {

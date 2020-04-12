@@ -1,4 +1,4 @@
-const logger = require('./log');
+const logger = require('../logger/logger');
 
 const logsHandler = (req, res, next) => {
   const { method, originalUrl } = req;

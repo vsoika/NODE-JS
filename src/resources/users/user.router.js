@@ -1,8 +1,7 @@
 const router = require('express').Router({ mergeParams: true });
 const User = require('./user.model');
 const usersService = require('./user.service');
-const { NewError, catchError } = require('../../common/errorHandler');
-
+const { NewError, catchError } = require('../../middlewares/errorHandler');
 const { BAD_REQUEST, NOT_FOUND, getStatusText } = require('http-status-codes');
 
 router.route('/').get(

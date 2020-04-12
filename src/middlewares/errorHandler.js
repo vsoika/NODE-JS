@@ -1,5 +1,5 @@
 const { INTERNAL_SERVER_ERROR, getStatusText } = require('http-status-codes');
-const logger = require('./log');
+const logger = require('../logger/logger');
 
 class NewError extends Error {
   constructor(statusCode, statusText, message) {

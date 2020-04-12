@@ -3,7 +3,7 @@ const path = require('path');
 
 const logger = createLogger({
   transports: [
-    new transports.Console(),
+    // new transports.Console(),
     new transports.File({
       filename: path.join(__dirname, '../logs/', 'error.log'),
       level: 'error',
@@ -30,14 +30,5 @@ const logger = createLogger({
     })
   ]
 });
-
-//   logger.silly('silly');
-// logger.debug('debug');
-// logger.verbose('verbose');
-// logger.info('info');
-// logger.warn('warn');
-// logger.error('error');
-
-// logger.log('info', 'info from log');
 
 module.exports = logger;

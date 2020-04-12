@@ -1,65 +1,78 @@
 const router = require('express').Router({ mergeParams: true });
-const { finished } = require('stream');
 const User = require('./user.model');
 const usersService = require('./user.service');
-const logger = require('../../common/log');
+const { NewError, catchError } = require('../../common/errorHandler');
 
-router.route('/').get(async (req, res, next) => {
-  const users = await usersService.getAll();
-  const { method, originalUrl } = req;
-  await res.json(users.map(User.toResponse));
-  const queryObject = Object.entries(req.query).length === 0 ? '{}' : req.query;
-  const bodyObject = Object.entries(req.body).length === 0 ? '{}' : req.body;
+const { BAD_REQUEST, NOT_FOUND, getStatusText } = require('http-status-codes');
 
-  next();
+router.route('/').get(
+  catchError(async (req, res) => {
+    const users = await usersService.getAll();
+    await res.json(users.map(User.toResponse));
+  })
+);
 
-  return finished(res, () => {
-    const { statusCode } = res;
-    logger.info(
-      `METHOD: ${method},  STATUS: ${statusCode}, URL: ${originalUrl}, QUERY PARAMS: ${queryObject}, BODY: ${bodyObject}`
-    );
-    logger.error(
-      `METHOD: ${method},  STATUS: ${statusCode}, URL: ${originalUrl}, QUERY PARAMS: ${queryObject}, BODY: ${bodyObject}`
-    );
-  });
-});
+router.route('/').post(
+  catchError(async (req, res) => {
+    const { name, login, password } = req.body;
 
-router.route('/').post(async (req, res) => {
-  const newUser = await usersService.addNewUser(req.body);
-  res.json(User.toResponse(newUser));
-});
+    if (name && login && password) {
+      const newUser = await usersService.addNewUser(req.body);
+      res.json(User.toResponse(newUser));
+    } else {
+      res.status(BAD_REQUEST).send({ error: getStatusText(BAD_REQUEST) });
+      throw new NewError(
+        BAD_REQUEST,
+        getStatusText(BAD_REQUEST),
+        getStatusText(BAD_REQUEST)
+      );
+    }
+  })
+);
 
-router.route('/:id').get(async (req, res) => {
-  const { id } = req.params;
-  const user = await usersService.getUserById(id);
+router.route('/:id').get(
+  catchError(async (req, res) => {
+    const { id } = req.params;
+    const user = await usersService.getUserById(id);
 
-  if (user) {
-    res.json(User.toResponse(user));
-  } else {
-    res.status(404).send({ error: `The user with id ${id} doesn't exist` });
-  }
-});
+    if (user) {
+      res.json(User.toResponse(user));
+    } else {
+      const message = `The user with id ${id} does not exist`;
+      res.status(NOT_FOUND).send({ error: message });
+      throw new NewError(NOT_FOUND, getStatusText(NOT_FOUND), message);
+    }
+  })
+);
 
-router.route('/:id').put(async (req, res) => {
-  const { id } = req.params;
-  const user = await usersService.updateUser(id, req.body);
+router.route('/:id').put(
+  catchError(async (req, res) => {
+    const { id } = req.params;
+    const user = await usersService.updateUser(id, req.body);
 
-  if (user) {
-    res.json(`The user ${user.name} have been updated successfully`);
-  } else {
-    res.status(404).send({ error: `The user with id ${id} doesn't exist` });
-  }
-});
+    if (user) {
+      res.json(`The user ${user.name} have been updated successfully`);
+    } else {
+      const message = `The user with id ${id} does not exist`;
+      res.status(NOT_FOUND).send({ error: message });
+      throw new NewError(NOT_FOUND, getStatusText(NOT_FOUND), message);
+    }
+  })
+);
 
-router.route('/:id').delete(async (req, res) => {
-  const { id } = req.params;
-  const user = await usersService.deleteUser(id);
+router.route('/:id').delete(
+  catchError(async (req, res) => {
+    const { id } = req.params;
+    const user = await usersService.deleteUser(id);
 
-  if (user) {
-    res.json(`The user ${user.name} have been deleted successfully`);
-  } else {
-    res.status(404).send({ error: `The user with id ${id} doesn't exist` });
-  }
-});
+    if (user) {
+      res.json(`The user ${user.name} have been deleted successfully`);
+    } else {
+      const message = `The user with id ${id} does not exist`;
+      res.status(NOT_FOUND).send({ error: message });
+      throw new NewError(NOT_FOUND, getStatusText(NOT_FOUND), message);
+    }
+  })
+);
 
 module.exports = router;

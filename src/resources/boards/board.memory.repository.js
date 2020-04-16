@@ -1,80 +1,30 @@
 const Board = require('./board.model');
-// const Column = require('./column.model');
-// const ALL_TASKS = require('../tasks/task.memory.repository');
-
-// const boards = [
-//   new Board({
-//     title: 'boards1',
-//     columns: [
-//       new Column({ title: 'columns1', order: 0 }),
-//       new Column({ title: 'columns2', order: 1 })
-//     ]
-//   }),
-//   new Board({
-//     title: 'boards2',
-//     columns: [
-//       new Column({ title: 'columns1', order: 3 }),
-//       new Column({ title: 'columns2', order: 2 })
-//     ]
-//   })
-// ];
+const Task = require('../tasks/task.model');
 
 const getAll = async () => {
   return Board.find({});
-  // return boards;
 };
 
 const addNewBoard = async body => {
   return Board.create(body);
-  // throw new Error();
-  // const newBoard = new Board(body);
-  // boards.push(newBoard);
-  // return newBoard;
 };
 
 const getBoardById = async id => {
   return Board.findById(id);
-  // throw new Error();
-  // const board = boards.find(item => item.id === id);
-  // return board;
 };
 
 const updateBoard = async (id, body) => {
   return Board.updateOne({ _id: id }, body);
-  // throw new Error();
-  // const board = boards.find(item => item.id === id);
-  // const updatedBoard = body;
-
-  // if (board) {
-  //   for (const key in board) {
-  //     if (updatedBoard[key]) {
-  //       board[key] =
-  //         board[key] !== updatedBoard[key] ? updatedBoard[key] : board[key];
-  //     }
-  //   }
-  // }
-  // return board;
 };
 
 const deleteBoard = async id => {
+  const board = await Board.findById(id);
+
+  if (board) {
+    Task.deleteMany({ boardId: id });
+  }
+
   return Board.deleteOne({ _id: id });
-  // throw new Error();
-  // const board = boards.find(item => item.id === id);
-
-  // if (board) {
-  //   boards.forEach((item, i) => {
-  //     if (item.id === id) {
-  //       boards.splice(i, 1);
-  //     }
-  //   });
-
-  //   ALL_TASKS.tasks.forEach((item, i) => {
-  //     if (item.boardId === id) {
-  //       ALL_TASKS.tasks.splice(i, 1);
-  //     }
-  //   });
-  // }
-  // return board;
 };
 
 module.exports = {

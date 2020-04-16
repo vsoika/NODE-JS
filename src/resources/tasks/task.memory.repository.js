@@ -1,57 +1,48 @@
 const Task = require('./task.model');
+const Board = require('../boards/board.model');
 
-const tasks = [];
-
-const getTaskByBoardId = id => {
-  const task = tasks.filter(item => item.boardId === id);
-  return task;
+const getTaskByBoardId = async id => {
+  const board = await Board.findById(id);
+  const task = await Task.find({ boardId: id });
+  return [board, task];
 };
 
-const createTask = (boardId, body) => {
-  let newTask = body;
+const createTask = async (boardId, body) => {
+  const newTask = body;
   newTask['boardId'] = boardId;
-  newTask = new Task(newTask);
-  tasks.push(newTask);
-
-  return newTask;
+  return Task.create(newTask);
 };
 
-const getTaskByBoardIdAndTaskId = taskId => {
-  const task = tasks.find(item => item.id === taskId);
-  return task;
+const getTaskByBoardIdAndTaskId = async (boardId, taskId) => {
+  const board = await Board.findById(boardId);
+  const task = await Task.findById(taskId);
+  return [board, task];
 };
 
-const updateTask = (board, taskId, body) => {
-  const task = tasks.find(item => item.id === taskId);
+const updateTask = async (boardId, taskId, body) => {
+  const board = await Board.findById(boardId);
+  const task = await Task.findById(taskId);
   const updatedTask = body;
 
   if (board) {
     if (task) {
-      for (const key in board) {
-        if (updatedTask[key]) {
-          task[key] =
-            task[key] !== updatedTask[key] ? updatedTask[key] : task[key];
-        }
-      }
+      await Task.updateOne({ _id: taskId }, updatedTask);
     }
   }
 
-  return task;
+  return [board, task];
 };
 
-const deleteTask = (board, taskId) => {
-  const task = tasks.find(item => item.id === taskId);
+const deleteTask = async (boardId, taskId) => {
+  const board = await Board.findById(boardId);
+  const task = await Task.findById(taskId);
 
   if (board) {
     if (task) {
-      tasks.forEach((item, i) => {
-        if (item.id === taskId) {
-          tasks.splice(i, 1);
-        }
-      });
+      await Task.deleteOne({ _id: taskId });
     }
   }
-  return task;
+  return [board, task];
 };
 
 module.exports = {
@@ -61,4 +52,3 @@ module.exports = {
   updateTask,
   deleteTask
 };
-module.exports.tasks = tasks;

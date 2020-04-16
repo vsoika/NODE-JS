@@ -12,7 +12,7 @@ class NewError extends Error {
 
 const catchError = fn => async (req, res, next) => {
   try {
-    return await fn(req, res, next);
+    return await fn(req, res);
   } catch (err) {
     return next(err);
   }

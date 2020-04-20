@@ -44,6 +44,5 @@ const connectToDB = cb => {
 };
 
 module.exports = {
-  connectToDB,
-  users
+  connectToDB
 };

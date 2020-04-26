@@ -1,8 +1,8 @@
 const User = require('./user.model');
 const Task = require('../tasks/task.model');
 
-const getAll = () => {
-  return User.find({});
+const getAll = async () => {
+  return await User.find({});
 };
 
 const addNewUser = async user => {
@@ -14,7 +14,9 @@ const getUserById = async id => {
 };
 
 const updateUser = async (id, body) => {
-  return User.updateOne({ _id: id }, body);
+  const user = await User.updateOne({ _id: id }, body);
+  console.log('PUT › should update user successfully: ', user);
+  return User.toResponse(user);
 };
 
 const deleteUser = async id => {

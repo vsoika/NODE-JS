@@ -1,10 +1,18 @@
-const usersRepo = require('./user.memory.repository');
+const usersRepo = require('./user.db.repository');
+// const User = require('./user.model');
 
-const getAll = () => usersRepo.getAll();
+const bcrypt = require('bcrypt');
+const saltRounds = 10;
+
+const getAll = async () => await usersRepo.getAll();
 
 const addNewUser = async user => {
-  const newUser = await usersRepo.addNewUser(user);
-  return newUser;
+  bcrypt.hash(user.password, saltRounds, async (err, hash) => {
+    if (err) return;
+    user.password = hash;
+    const newUser = await usersRepo.addNewUser(user);
+    return newUser;
+  });
 };
 
 const getUserById = async id => {
@@ -14,6 +22,7 @@ const getUserById = async id => {
 
 const updateUser = async (id, body) => {
   const user = await usersRepo.updateUser(id, body);
+  console.log('updateUser service: ', user);
   return user;
 };
 

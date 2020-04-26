@@ -1,0 +1,2363 @@
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '25-04-2020 19:21:17' }
+{ message:
+   'ERROR 404 Not Found, The board with id e83c6315-72cd-48cd-95dc-51015cc51a82 does not exist',
+  level: 'error',
+  timestamp: '25-04-2020 19:21:18' }
+{ message:
+   'ERROR 404 Not Found, The board with id 3cdb4ffa-801b-4f6c-bac6-262ed93906f6 does not exist',
+  level: 'error',
+  timestamp: '25-04-2020 19:21:19' }
+{ message:
+   'ERROR 404 Not Found, The board with id a99ee255-1a36-4faf-9f90-8e21ae16d552 does not exist',
+  level: 'error',
+  timestamp: '25-04-2020 19:21:19' }
+{ message:
+   'ERROR 404 Not Found, The board with id 3cdb4ffa-801b-4f6c-bac6-262ed93906f6 does not exist',
+  level: 'error',
+  timestamp: '25-04-2020 19:21:19' }
+{ message:
+   'ERROR 404 Not Found, The board with id 3cdb4ffa-801b-4f6c-bac6-262ed93906f6 does not exist',
+  level: 'error',
+  timestamp: '25-04-2020 19:21:19' }
+{ message:
+   'ERROR 404 Not Found, The board with id 3cdb4ffa-801b-4f6c-bac6-262ed93906f6 does not exist',
+  level: 'error',
+  timestamp: '25-04-2020 19:21:19' }
+{ message:
+   'ERROR 404 Not Found, The board with id 3cdb4ffa-801b-4f6c-bac6-262ed93906f6 does not exist',
+  level: 'error',
+  timestamp: '25-04-2020 19:21:19' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '25-04-2020 19:27:03' }
+{ message:
+   'ERROR 404 Not Found, The board with id 2810099a-b730-4516-867c-6f723a2fec3e does not exist',
+  level: 'error',
+  timestamp: '25-04-2020 19:27:04' }
+{ message:
+   'ERROR 404 Not Found, The board with id 783eb2c7-3756-4e35-9654-89b7a2a6ec68 does not exist',
+  level: 'error',
+  timestamp: '25-04-2020 19:27:05' }
+{ message:
+   'ERROR 404 Not Found, The board with id 783eb2c7-3756-4e35-9654-89b7a2a6ec68 does not exist',
+  level: 'error',
+  timestamp: '25-04-2020 19:27:05' }
+{ message:
+   'ERROR 404 Not Found, The board with id 783eb2c7-3756-4e35-9654-89b7a2a6ec68 does not exist',
+  level: 'error',
+  timestamp: '25-04-2020 19:27:05' }
+{ message:
+   'ERROR 404 Not Found, The board with id 783eb2c7-3756-4e35-9654-89b7a2a6ec68 does not exist',
+  level: 'error',
+  timestamp: '25-04-2020 19:27:05' }
+{ message:
+   'ERROR 404 Not Found, The board with id 783eb2c7-3756-4e35-9654-89b7a2a6ec68 does not exist',
+  level: 'error',
+  timestamp: '25-04-2020 19:27:05' }
+{ message:
+   'ERROR 404 Not Found, The board with id 4fa6ecf9-701b-4439-9cda-9d9a127c4009 does not exist',
+  level: 'error',
+  timestamp: '25-04-2020 19:27:05' }
+{ message:
+   'Unhandled rejection error: Cannot read property \'split\' of undefined',
+  level: 'error',
+  timestamp: '26-04-2020 11:17:40' }
+{ message:
+   'ERROR 404 Not Found, The board with id e1dc9460-befc-4e24-9f19-e79eb7b1e183 does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 11:17:42' }
+{ message:
+   'ERROR 404 Not Found, The board with id cb1b5c3d-f684-4952-9304-e84a4ade550d does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 11:17:42' }
+{ message:
+   'ERROR 404 Not Found, The board with id cb1b5c3d-f684-4952-9304-e84a4ade550d does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 11:17:42' }
+{ message:
+   'ERROR 404 Not Found, The board with id cb1b5c3d-f684-4952-9304-e84a4ade550d does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 11:17:42' }
+{ message:
+   'ERROR 404 Not Found, The board with id cb1b5c3d-f684-4952-9304-e84a4ade550d does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 11:17:42' }
+{ message:
+   'ERROR 404 Not Found, The board with id cb1b5c3d-f684-4952-9304-e84a4ade550d does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 11:17:42' }
+{ message:
+   'ERROR 404 Not Found, The board with id be25646b-cd1c-4d15-aa94-0649fcc9c795 does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 11:17:42' }
+{ message:
+   'Unhandled rejection error: Cannot read property \'split\' of undefined',
+  level: 'error',
+  timestamp: '26-04-2020 11:42:00' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 11:42:00' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 11:42:00' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 11:42:00' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 11:42:00' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 11:42:00' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 11:42:00' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 11:42:00' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 11:42:00' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 11:42:01' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 11:42:01' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 11:42:01' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 11:42:01' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 11:42:01' }
+{ message:
+   'ERROR 404 Not Found, The board with id 875dcde8-441b-49c8-ab5c-378bc60162a7 does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 11:42:01' }
+{ message:
+   'ERROR 404 Not Found, The board with id 56245766-921e-44a8-be42-7332ee6666ee does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 11:42:02' }
+{ message:
+   'ERROR 404 Not Found, The board with id 56245766-921e-44a8-be42-7332ee6666ee does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 11:42:02' }
+{ message:
+   'ERROR 404 Not Found, The board with id 56245766-921e-44a8-be42-7332ee6666ee does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 11:42:02' }
+{ message:
+   'ERROR 404 Not Found, The board with id 56245766-921e-44a8-be42-7332ee6666ee does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 11:42:02' }
+{ message:
+   'ERROR 404 Not Found, The board with id 56245766-921e-44a8-be42-7332ee6666ee does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 11:42:02' }
+{ message:
+   'ERROR 404 Not Found, The board with id f7667233-e3f2-4cbb-97c2-3f7ac5cb11ab does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 11:42:02' }
+{ message:
+   'Unhandled rejection error: Cannot read property \'split\' of undefined',
+  level: 'error',
+  timestamp: '26-04-2020 11:42:05' }
+{ message:
+   'Unhandled rejection error: Cannot read property \'split\' of undefined',
+  level: 'error',
+  timestamp: '26-04-2020 11:42:10' }
+{ message:
+   'Unhandled rejection error: Cannot read property \'split\' of undefined',
+  level: 'error',
+  timestamp: '26-04-2020 11:42:15' }
+{ message:
+   'Unhandled rejection error: Cannot read property \'split\' of undefined',
+  level: 'error',
+  timestamp: '26-04-2020 11:42:20' }
+{ message:
+   'Unhandled rejection error: Cannot create collection rest.users - database is in the process of being dropped.',
+  level: 'error',
+  timestamp: '26-04-2020 11:54:28' }
+{ message:
+   'Unhandled rejection error: Cannot create collection rest.users - database is in the process of being dropped.',
+  level: 'error',
+  timestamp: '26-04-2020 11:54:31' }
+{ message:
+   'Unhandled rejection error: Cannot read property \'split\' of undefined',
+  level: 'error',
+  timestamp: '26-04-2020 11:55:09' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 11:55:09' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 11:55:09' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 11:55:09' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 11:55:09' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 11:55:09' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 11:55:09' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 11:55:09' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 11:55:09' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 11:55:09' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 11:55:09' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 11:55:09' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 11:55:09' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 11:55:09' }
+{ message:
+   'ERROR 404 Not Found, The board with id a861f084-a9dc-441b-8697-62ee9247becb does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 11:55:10' }
+{ message:
+   'ERROR 404 Not Found, The board with id b04173e0-1803-4604-9d9c-fc75c3010efe does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 11:55:11' }
+{ message:
+   'ERROR 404 Not Found, The board with id b26e0afc-e8db-42fc-b90c-d366521ebfc0 does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 11:55:11' }
+{ message:
+   'ERROR 404 Not Found, The board with id b26e0afc-e8db-42fc-b90c-d366521ebfc0 does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 11:55:11' }
+{ message:
+   'ERROR 404 Not Found, The board with id b26e0afc-e8db-42fc-b90c-d366521ebfc0 does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 11:55:11' }
+{ message:
+   'ERROR 404 Not Found, The board with id b26e0afc-e8db-42fc-b90c-d366521ebfc0 does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 11:55:11' }
+{ message:
+   'ERROR 404 Not Found, The board with id b26e0afc-e8db-42fc-b90c-d366521ebfc0 does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 11:55:11' }
+{ message:
+   'Unhandled rejection error: Cannot read property \'split\' of undefined',
+  level: 'error',
+  timestamp: '26-04-2020 11:55:14' }
+{ message:
+   'Unhandled rejection error: Cannot read property \'split\' of undefined',
+  level: 'error',
+  timestamp: '26-04-2020 11:55:19' }
+{ message:
+   'Unhandled rejection error: Cannot read property \'split\' of undefined',
+  level: 'error',
+  timestamp: '26-04-2020 11:55:24' }
+{ message:
+   'Unhandled rejection error: Cannot read property \'split\' of undefined',
+  level: 'error',
+  timestamp: '26-04-2020 11:55:29' }
+{ message:
+   'Unhandled rejection error: Cannot create collection rest.users - database is in the process of being dropped.',
+  level: 'error',
+  timestamp: '26-04-2020 11:56:07' }
+{ message:
+   'Unhandled rejection error: Cannot create collection rest.users - database is in the process of being dropped.',
+  level: 'error',
+  timestamp: '26-04-2020 11:56:07' }
+{ message:
+   'Unhandled rejection error: Cannot read property \'startsWith\' of undefined',
+  level: 'error',
+  timestamp: '26-04-2020 11:58:29' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 11:58:30' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 11:58:30' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 11:58:30' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 11:58:30' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 11:58:30' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 11:58:30' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 11:58:30' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 11:58:30' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 11:58:30' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 11:58:30' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 11:58:30' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 11:58:30' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 11:58:30' }
+{ message:
+   'ERROR 404 Not Found, The board with id 2ef66bfb-99b8-49d0-9e3d-610a80700895 does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 11:58:31' }
+{ message:
+   'ERROR 404 Not Found, The board with id f9a8bb93-93d9-47f8-83c5-1cc2d8cba57f does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 11:58:31' }
+{ message:
+   'ERROR 404 Not Found, The board with id d6be6722-d9af-4aa2-9cfa-bbdc2223b40c does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 11:58:31' }
+{ message:
+   'ERROR 404 Not Found, The board with id f9a8bb93-93d9-47f8-83c5-1cc2d8cba57f does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 11:58:31' }
+{ message:
+   'ERROR 404 Not Found, The board with id f9a8bb93-93d9-47f8-83c5-1cc2d8cba57f does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 11:58:31' }
+{ message:
+   'ERROR 404 Not Found, The board with id f9a8bb93-93d9-47f8-83c5-1cc2d8cba57f does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 11:58:31' }
+{ message:
+   'ERROR 404 Not Found, The board with id f9a8bb93-93d9-47f8-83c5-1cc2d8cba57f does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 11:58:31' }
+{ message:
+   'Unhandled rejection error: Cannot read property \'startsWith\' of undefined',
+  level: 'error',
+  timestamp: '26-04-2020 11:58:34' }
+{ message:
+   'Unhandled rejection error: Cannot read property \'startsWith\' of undefined',
+  level: 'error',
+  timestamp: '26-04-2020 11:58:39' }
+{ message:
+   'Unhandled rejection error: Cannot read property \'startsWith\' of undefined',
+  level: 'error',
+  timestamp: '26-04-2020 11:58:44' }
+{ message:
+   'Unhandled rejection error: Cannot read property \'startsWith\' of undefined',
+  level: 'error',
+  timestamp: '26-04-2020 11:58:49' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 12:01:22' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 12:01:22' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 12:01:22' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 12:01:22' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 12:01:22' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:01:22' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:01:22' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:01:22' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:01:22' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:01:22' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:01:22' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:01:22' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:01:22' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:01:22' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:01:22' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:01:22' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:01:22' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:01:22' }
+{ message:
+   'ERROR 404 Not Found, The board with id 55adaf16-73b5-4521-b3da-3af54e89d6b2 does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 12:01:23' }
+{ message:
+   'ERROR 404 Not Found, The board with id aa36e5d6-6b88-463b-b4e3-0d7161a83a94 does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 12:01:23' }
+{ message:
+   'ERROR 404 Not Found, The board with id aa36e5d6-6b88-463b-b4e3-0d7161a83a94 does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 12:01:23' }
+{ message:
+   'ERROR 404 Not Found, The board with id aa36e5d6-6b88-463b-b4e3-0d7161a83a94 does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 12:01:23' }
+{ message:
+   'ERROR 404 Not Found, The board with id aa36e5d6-6b88-463b-b4e3-0d7161a83a94 does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 12:01:23' }
+{ message:
+   'ERROR 404 Not Found, The board with id aa36e5d6-6b88-463b-b4e3-0d7161a83a94 does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 12:01:23' }
+{ message:
+   'ERROR 404 Not Found, The board with id b861a32c-2da6-4ffb-bdb2-970a6ab3f105 does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 12:01:24' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 12:03:16' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 12:03:16' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 12:03:16' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 12:03:16' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 12:03:16' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:03:16' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:03:16' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:03:16' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:03:16' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:03:16' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:03:16' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:03:16' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:03:16' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:03:16' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:03:16' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:03:16' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:03:16' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:03:16' }
+{ message:
+   'ERROR 404 Not Found, The board with id 6e991996-9724-4049-94e9-f4bbae830233 does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 12:03:17' }
+{ message:
+   'ERROR 404 Not Found, The board with id 49113c8c-4bd3-4168-bc75-2a47372da106 does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 12:03:18' }
+{ message:
+   'ERROR 404 Not Found, The board with id 49113c8c-4bd3-4168-bc75-2a47372da106 does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 12:03:18' }
+{ message:
+   'ERROR 404 Not Found, The board with id 49113c8c-4bd3-4168-bc75-2a47372da106 does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 12:03:18' }
+{ message:
+   'ERROR 404 Not Found, The board with id 49113c8c-4bd3-4168-bc75-2a47372da106 does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 12:03:18' }
+{ message:
+   'ERROR 404 Not Found, The board with id 49113c8c-4bd3-4168-bc75-2a47372da106 does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 12:03:18' }
+{ message:
+   'ERROR 404 Not Found, The board with id e83da772-187f-4885-8bd1-e385ab683295 does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 12:03:18' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 12:05:08' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 12:05:08' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 12:05:08' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 12:05:08' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 12:05:08' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:05:08' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:05:08' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:05:08' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:05:08' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:05:08' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:05:08' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:05:08' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:05:08' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:05:08' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:05:08' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:05:08' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:05:08' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:05:08' }
+{ message:
+   'ERROR 404 Not Found, The board with id b5435bbe-3df4-4a8a-b553-2ca2066da397 does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 12:05:09' }
+{ message:
+   'ERROR 404 Not Found, The board with id 9f7cfd53-d84c-4363-b09a-b30de7050375 does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 12:05:09' }
+{ message:
+   'ERROR 404 Not Found, The board with id 9f7cfd53-d84c-4363-b09a-b30de7050375 does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 12:05:09' }
+{ message:
+   'ERROR 404 Not Found, The board with id 9f7cfd53-d84c-4363-b09a-b30de7050375 does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 12:05:09' }
+{ message:
+   'ERROR 404 Not Found, The board with id 9f7cfd53-d84c-4363-b09a-b30de7050375 does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 12:05:09' }
+{ message:
+   'ERROR 404 Not Found, The board with id 9f7cfd53-d84c-4363-b09a-b30de7050375 does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 12:05:09' }
+{ message:
+   'ERROR 404 Not Found, The board with id 213c81cf-0cdd-4446-8f4a-365f056ddad1 does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 12:05:09' }
+{ message:
+   'Unhandled rejection error: Cannot create collection rest.users - database is in the process of being dropped.',
+  level: 'error',
+  timestamp: '26-04-2020 12:07:21' }
+{ message:
+   'Unhandled rejection error: Cannot create collection rest.users - database is in the process of being dropped.',
+  level: 'error',
+  timestamp: '26-04-2020 12:07:25' }
+{ message:
+   'Unhandled rejection error: Cannot create collection rest.users - database is in the process of being dropped.',
+  level: 'error',
+  timestamp: '26-04-2020 12:07:25' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 12:07:43' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 12:07:43' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 12:07:43' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 12:07:43' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 12:07:43' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:07:43' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:07:43' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:07:43' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: Failed to authenticate token',
+  level: 'error',
+  timestamp: '26-04-2020 12:07:43' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: Failed to authenticate token',
+  level: 'error',
+  timestamp: '26-04-2020 12:07:43' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: Failed to authenticate token',
+  level: 'error',
+  timestamp: '26-04-2020 12:07:43' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: Failed to authenticate token',
+  level: 'error',
+  timestamp: '26-04-2020 12:07:43' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: Failed to authenticate token',
+  level: 'error',
+  timestamp: '26-04-2020 12:07:43' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: Failed to authenticate token',
+  level: 'error',
+  timestamp: '26-04-2020 12:07:43' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: Failed to authenticate token',
+  level: 'error',
+  timestamp: '26-04-2020 12:07:43' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: Failed to authenticate token',
+  level: 'error',
+  timestamp: '26-04-2020 12:07:43' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: Failed to authenticate token',
+  level: 'error',
+  timestamp: '26-04-2020 12:07:43' }
+{ message:
+   'ERROR 404 Not Found, The board with id 8accc25b-13aa-4fdd-9b61-ffb21dbf3594 does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 12:07:44' }
+{ message:
+   'ERROR 404 Not Found, The board with id 13ea09c5-09d8-4c91-8176-bd6d070c6632 does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 12:07:44' }
+{ message:
+   'ERROR 404 Not Found, The board with id 4a137cc3-9674-4905-b854-7573d400678b does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 12:07:44' }
+{ message:
+   'ERROR 404 Not Found, The board with id 4a137cc3-9674-4905-b854-7573d400678b does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 12:07:44' }
+{ message:
+   'ERROR 404 Not Found, The board with id 4a137cc3-9674-4905-b854-7573d400678b does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 12:07:44' }
+{ message:
+   'ERROR 404 Not Found, The board with id 4a137cc3-9674-4905-b854-7573d400678b does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 12:07:44' }
+{ message:
+   'ERROR 404 Not Found, The board with id 4a137cc3-9674-4905-b854-7573d400678b does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 12:07:44' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 12:10:04' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 12:10:04' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 12:10:04' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 12:10:04' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 12:10:04' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:10:04' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:10:04' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:10:04' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:10:04' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:10:04' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:10:04' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:10:04' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:10:04' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:10:04' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:10:04' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:10:04' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:10:04' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:10:04' }
+{ message:
+   'ERROR 404 Not Found, The board with id b5fd793e-47ed-43e8-8a94-ca5242722fe8 does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 12:10:05' }
+{ message:
+   'ERROR 404 Not Found, The board with id 0ff34b4e-8521-4033-a7de-68b008b23f9c does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 12:10:06' }
+{ message:
+   'ERROR 404 Not Found, The board with id 06793e77-3da1-4f56-b9de-3b3d7de4d82e does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 12:10:06' }
+{ message:
+   'ERROR 404 Not Found, The board with id 0ff34b4e-8521-4033-a7de-68b008b23f9c does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 12:10:06' }
+{ message:
+   'ERROR 404 Not Found, The board with id 0ff34b4e-8521-4033-a7de-68b008b23f9c does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 12:10:06' }
+{ message:
+   'ERROR 404 Not Found, The board with id 0ff34b4e-8521-4033-a7de-68b008b23f9c does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 12:10:06' }
+{ message:
+   'ERROR 404 Not Found, The board with id 0ff34b4e-8521-4033-a7de-68b008b23f9c does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 12:10:06' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 12:11:31' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 12:11:31' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 12:11:31' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 12:11:31' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 12:11:31' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:11:31' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:11:31' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:11:31' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:11:31' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:11:31' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:11:31' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:11:31' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:11:31' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:11:31' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:11:31' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:11:31' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:11:31' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:11:31' }
+{ message:
+   'ERROR 404 Not Found, The board with id 1d84fd43-9c3c-405b-a29c-eb6f4cf556ee does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 12:11:32' }
+{ message:
+   'ERROR 404 Not Found, The board with id 23a89a24-b697-408d-8075-18cb0337e865 does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 12:11:32' }
+{ message:
+   'ERROR 404 Not Found, The board with id 23a89a24-b697-408d-8075-18cb0337e865 does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 12:11:32' }
+{ message:
+   'ERROR 404 Not Found, The board with id 23a89a24-b697-408d-8075-18cb0337e865 does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 12:11:32' }
+{ message:
+   'ERROR 404 Not Found, The board with id 23a89a24-b697-408d-8075-18cb0337e865 does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 12:11:32' }
+{ message:
+   'ERROR 404 Not Found, The board with id 23a89a24-b697-408d-8075-18cb0337e865 does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 12:11:32' }
+{ message:
+   'ERROR 404 Not Found, The board with id dd425e49-2a97-4a25-a6d8-5e81a74869a8 does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 12:11:32' }
+{ message:
+   'Unhandled rejection error: Cannot create collection rest.users - database is in the process of being dropped.',
+  level: 'error',
+  timestamp: '26-04-2020 12:12:43' }
+{ message:
+   'Unhandled rejection error: Cannot create collection rest.users - database is in the process of being dropped.',
+  level: 'error',
+  timestamp: '26-04-2020 12:12:43' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 12:13:21' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 12:13:21' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 12:13:21' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 12:13:21' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 12:13:21' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:13:21' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:13:21' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:13:21' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:13:21' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:13:21' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:13:21' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:13:21' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:13:21' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:13:21' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:13:21' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:13:21' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:13:21' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:13:21' }
+{ message:
+   'ERROR 404 Not Found, The board with id 3fbf95c0-40df-4316-b977-b8f810c3b8cf does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 12:13:22' }
+{ message:
+   'ERROR 404 Not Found, The board with id 679a71eb-2639-45a9-bcb7-dfe71faaf890 does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 12:13:22' }
+{ message:
+   'ERROR 404 Not Found, The board with id 679a71eb-2639-45a9-bcb7-dfe71faaf890 does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 12:13:22' }
+{ message:
+   'ERROR 404 Not Found, The board with id 679a71eb-2639-45a9-bcb7-dfe71faaf890 does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 12:13:22' }
+{ message:
+   'ERROR 404 Not Found, The board with id 679a71eb-2639-45a9-bcb7-dfe71faaf890 does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 12:13:22' }
+{ message:
+   'ERROR 404 Not Found, The board with id 679a71eb-2639-45a9-bcb7-dfe71faaf890 does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 12:13:22' }
+{ message:
+   'ERROR 404 Not Found, The board with id 5a1809b8-f07f-42f7-b6b5-b331fde9af23 does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 12:13:22' }
+{ message:
+   'Unhandled rejection error: Cannot create collection rest.users - database is in the process of being dropped.',
+  level: 'error',
+  timestamp: '26-04-2020 12:17:10' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 12:17:18' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 12:17:18' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 12:17:18' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 12:17:18' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 12:17:18' }
+{ message:
+   'ERROR 404 Not Found, The board with id ade5c813-f653-49c9-9015-8b77656cf468 does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 12:17:19' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:17:19' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:17:19' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:17:19' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:17:19' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:17:19' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:17:19' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:17:19' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:17:19' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:17:19' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:17:19' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:17:19' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:17:19' }
+{ message:
+   'ERROR 404 Not Found, The board with id 4ca5949c-ec45-45c3-a266-977e4ed7dd24 does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 12:17:19' }
+{ message:
+   'ERROR 404 Not Found, The board with id 9fe1ebd6-cc1d-4e50-bc47-80e2b551315a does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 12:17:19' }
+{ message:
+   'ERROR 404 Not Found, The board with id 9fe1ebd6-cc1d-4e50-bc47-80e2b551315a does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 12:17:19' }
+{ message:
+   'ERROR 404 Not Found, The board with id 9fe1ebd6-cc1d-4e50-bc47-80e2b551315a does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 12:17:20' }
+{ message:
+   'ERROR 404 Not Found, The board with id 9fe1ebd6-cc1d-4e50-bc47-80e2b551315a does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 12:17:20' }
+{ message:
+   'ERROR 404 Not Found, The board with id 9fe1ebd6-cc1d-4e50-bc47-80e2b551315a does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 12:17:20' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:17:20' }
+{ message:
+   'Unhandled rejection error: Cannot create collection rest.users - database is in the process of being dropped.',
+  level: 'error',
+  timestamp: '26-04-2020 12:19:27' }
+{ message:
+   'Unhandled rejection error: Cannot create collection rest.users - database is in the process of being dropped.',
+  level: 'error',
+  timestamp: '26-04-2020 12:19:27' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 12:19:52' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 12:19:52' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 12:19:52' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 12:19:52' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 12:19:52' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 12:19:57' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 12:19:57' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 12:19:57' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 12:19:57' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 12:19:57' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 12:19:57' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 12:19:57' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 12:19:57' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 12:19:57' }
+{ message:
+   'ERROR 404 Not Found, The board with id undefined does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 12:19:57' }
+{ message:
+   'ERROR 404 Not Found, The board with id undefined does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 12:19:58' }
+{ message:
+   'ERROR 404 Not Found, The board with id undefined does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 12:19:58' }
+{ message:
+   'ERROR 404 Not Found, The board with id d3d6a6a1-9b20-4c6b-8232-2364d2ae6b99 does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 12:19:58' }
+{ message:
+   'ERROR 404 Not Found, The board with id c43eada3-c631-44ad-8562-7810a3a0aeb5 does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 12:19:59' }
+{ message:
+   'ERROR 404 Not Found, The board with id c43eada3-c631-44ad-8562-7810a3a0aeb5 does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 12:19:59' }
+{ message:
+   'ERROR 404 Not Found, The board with id c43eada3-c631-44ad-8562-7810a3a0aeb5 does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 12:19:59' }
+{ message:
+   'ERROR 404 Not Found, The board with id c43eada3-c631-44ad-8562-7810a3a0aeb5 does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 12:19:59' }
+{ message:
+   'ERROR 404 Not Found, The board with id c43eada3-c631-44ad-8562-7810a3a0aeb5 does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 12:19:59' }
+{ message:
+   'ERROR 404 Not Found, The board with id undefined does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 12:20:03' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 12:21:19' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 12:21:19' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 12:21:19' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 12:21:19' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 12:21:19' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:21:19' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:21:19' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:21:19' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 12:21:24' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 12:21:24' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 12:21:24' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 12:21:24' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 12:21:24' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 12:21:24' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 12:21:24' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 12:21:24' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 12:21:24' }
+{ message:
+   'ERROR 404 Not Found, The board with id undefined does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 12:21:24' }
+{ message:
+   'ERROR 404 Not Found, The board with id undefined does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 12:21:24' }
+{ message:
+   'ERROR 404 Not Found, The board with id undefined does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 12:21:24' }
+{ message:
+   'ERROR 404 Not Found, The board with id b14cd28b-1f83-4a19-be2f-0e2f90b6c8b8 does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 12:21:24' }
+{ message:
+   'ERROR 404 Not Found, The board with id 24894988-3205-492d-a9a3-4f5c7f1e6602 does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 12:21:25' }
+{ message:
+   'ERROR 404 Not Found, The board with id 24894988-3205-492d-a9a3-4f5c7f1e6602 does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 12:21:25' }
+{ message:
+   'ERROR 404 Not Found, The board with id 24894988-3205-492d-a9a3-4f5c7f1e6602 does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 12:21:25' }
+{ message:
+   'ERROR 404 Not Found, The board with id 24894988-3205-492d-a9a3-4f5c7f1e6602 does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 12:21:25' }
+{ message:
+   'ERROR 404 Not Found, The board with id 24894988-3205-492d-a9a3-4f5c7f1e6602 does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 12:21:25' }
+{ message:
+   'ERROR 404 Not Found, The board with id undefined does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 12:21:29' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 12:21:51' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 12:21:51' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 12:21:51' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 12:21:51' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 12:21:51' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:21:51' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:21:51' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:21:52' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 12:21:56' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 12:21:56' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 12:21:56' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 12:21:56' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 12:21:56' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 12:21:56' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 12:21:56' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 12:21:56' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 12:21:56' }
+{ message:
+   'ERROR 404 Not Found, The board with id undefined does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 12:21:56' }
+{ message:
+   'ERROR 404 Not Found, The board with id undefined does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 12:21:57' }
+{ message:
+   'ERROR 404 Not Found, The board with id undefined does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 12:21:57' }
+{ message:
+   'ERROR 404 Not Found, The board with id c1ad04fa-3af3-4d70-8e21-5f4a5d274a3c does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 12:21:57' }
+{ message:
+   'ERROR 404 Not Found, The board with id 1af0c3b2-79af-4d75-bb3a-7e6555ddd1b3 does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 12:21:58' }
+{ message:
+   'ERROR 404 Not Found, The board with id 1af0c3b2-79af-4d75-bb3a-7e6555ddd1b3 does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 12:21:58' }
+{ message:
+   'ERROR 404 Not Found, The board with id 1af0c3b2-79af-4d75-bb3a-7e6555ddd1b3 does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 12:21:58' }
+{ message:
+   'ERROR 404 Not Found, The board with id 1af0c3b2-79af-4d75-bb3a-7e6555ddd1b3 does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 12:21:58' }
+{ message:
+   'ERROR 404 Not Found, The board with id 1af0c3b2-79af-4d75-bb3a-7e6555ddd1b3 does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 12:21:58' }
+{ message:
+   'ERROR 404 Not Found, The board with id undefined does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 12:22:02' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 12:22:20' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 12:22:20' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 12:22:20' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 12:22:20' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 12:22:20' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:22:20' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:22:20' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:22:20' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:22:20' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:22:20' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:22:20' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:22:20' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:22:20' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:22:20' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:22:20' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:22:20' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:22:20' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:22:20' }
+{ message:
+   'ERROR 404 Not Found, The board with id fd2b291c-b107-4cb3-b67d-58bc1f30eeef does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 12:22:21' }
+{ message:
+   'ERROR 404 Not Found, The board with id 25e9331a-8257-445f-b7ca-70819b2e7c9b does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 12:22:21' }
+{ message:
+   'ERROR 404 Not Found, The board with id 25e9331a-8257-445f-b7ca-70819b2e7c9b does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 12:22:21' }
+{ message:
+   'ERROR 404 Not Found, The board with id 25e9331a-8257-445f-b7ca-70819b2e7c9b does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 12:22:21' }
+{ message:
+   'ERROR 404 Not Found, The board with id 25e9331a-8257-445f-b7ca-70819b2e7c9b does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 12:22:21' }
+{ message:
+   'ERROR 404 Not Found, The board with id 25e9331a-8257-445f-b7ca-70819b2e7c9b does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 12:22:21' }
+{ message:
+   'ERROR 404 Not Found, The board with id c5b28839-95d3-4c07-b378-bc5960851ea0 does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 12:22:21' }
+{ message: 'Uncaught Exception error: users is not defined',
+  level: 'error',
+  timestamp: '26-04-2020 12:30:48' }
+{ message:
+   'Unhandled rejection error: Cannot create collection rest.users - database is in the process of being dropped.',
+  level: 'error',
+  timestamp: '26-04-2020 12:31:26' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 12:38:36' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 12:38:36' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 12:38:36' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 12:38:36' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 12:38:36' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:38:37' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:38:37' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: Failed to authenticate token',
+  level: 'error',
+  timestamp: '26-04-2020 12:38:37' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: Failed to authenticate token',
+  level: 'error',
+  timestamp: '26-04-2020 12:38:37' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: Failed to authenticate token',
+  level: 'error',
+  timestamp: '26-04-2020 12:38:37' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: Failed to authenticate token',
+  level: 'error',
+  timestamp: '26-04-2020 12:38:37' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: Failed to authenticate token',
+  level: 'error',
+  timestamp: '26-04-2020 12:38:37' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: Failed to authenticate token',
+  level: 'error',
+  timestamp: '26-04-2020 12:38:37' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: Failed to authenticate token',
+  level: 'error',
+  timestamp: '26-04-2020 12:38:37' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: Failed to authenticate token',
+  level: 'error',
+  timestamp: '26-04-2020 12:38:37' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: Failed to authenticate token',
+  level: 'error',
+  timestamp: '26-04-2020 12:38:37' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:38:37' }
+{ message:
+   'ERROR 404 Not Found, The board with id d196f533-77f1-430d-be53-079637e1de7d does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 12:38:38' }
+{ message:
+   'ERROR 404 Not Found, The board with id d196f533-77f1-430d-be53-079637e1de7d does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 12:38:38' }
+{ message:
+   'ERROR 404 Not Found, The board with id d196f533-77f1-430d-be53-079637e1de7d does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 12:38:38' }
+{ message:
+   'ERROR 404 Not Found, The board with id 74f11fc2-9a2e-4eff-a59a-83d887630fbd does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 12:38:38' }
+{ message:
+   'ERROR 404 Not Found, The board with id 74f11fc2-9a2e-4eff-a59a-83d887630fbd does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 12:38:38' }
+{ message:
+   'ERROR 404 Not Found, The board with id 74f11fc2-9a2e-4eff-a59a-83d887630fbd does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 12:38:38' }
+{ message:
+   'ERROR 404 Not Found, The board with id 74f11fc2-9a2e-4eff-a59a-83d887630fbd does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 12:38:38' }
+{ message:
+   'ERROR 404 Not Found, The board with id 74f11fc2-9a2e-4eff-a59a-83d887630fbd does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 12:38:38' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 12:43:38' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 12:43:38' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 12:43:38' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 12:43:38' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 12:43:38' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:43:38' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:43:38' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 12:43:38' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: Failed to authenticate token',
+  level: 'error',
+  timestamp: '26-04-2020 12:43:38' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: Failed to authenticate token',
+  level: 'error',
+  timestamp: '26-04-2020 12:43:38' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: Failed to authenticate token',
+  level: 'error',
+  timestamp: '26-04-2020 12:43:38' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: Failed to authenticate token',
+  level: 'error',
+  timestamp: '26-04-2020 12:43:38' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: Failed to authenticate token',
+  level: 'error',
+  timestamp: '26-04-2020 12:43:38' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: Failed to authenticate token',
+  level: 'error',
+  timestamp: '26-04-2020 12:43:38' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: Failed to authenticate token',
+  level: 'error',
+  timestamp: '26-04-2020 12:43:38' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: Failed to authenticate token',
+  level: 'error',
+  timestamp: '26-04-2020 12:43:38' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: Failed to authenticate token',
+  level: 'error',
+  timestamp: '26-04-2020 12:43:38' }
+{ message:
+   'ERROR 404 Not Found, The board with id 1ed00d58-6289-4aed-81cf-e7c86e733ced does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 12:43:39' }
+{ message:
+   'ERROR 404 Not Found, The board with id 33db773e-7ab6-41fc-8f5e-613b3759c3ca does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 12:43:39' }
+{ message:
+   'ERROR 404 Not Found, The board with id d0076880-6983-4e40-adb7-49f20ab4d2db does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 12:43:40' }
+{ message:
+   'ERROR 404 Not Found, The board with id d0076880-6983-4e40-adb7-49f20ab4d2db does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 12:43:40' }
+{ message:
+   'ERROR 404 Not Found, The board with id d0076880-6983-4e40-adb7-49f20ab4d2db does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 12:43:40' }
+{ message:
+   'ERROR 404 Not Found, The board with id d0076880-6983-4e40-adb7-49f20ab4d2db does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 12:43:40' }
+{ message:
+   'ERROR 404 Not Found, The board with id d0076880-6983-4e40-adb7-49f20ab4d2db does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 12:43:40' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 12:51:01' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 12:53:00' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 12:53:04' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 12:53:26' }
+{ message: 'Unhandled rejection error: users is not defined',
+  level: 'error',
+  timestamp: '26-04-2020 13:02:07' }
+{ message: 'Unhandled rejection error: users is not defined',
+  level: 'error',
+  timestamp: '26-04-2020 13:02:11' }
+{ message: 'Unhandled rejection error: users is not defined',
+  level: 'error',
+  timestamp: '26-04-2020 13:02:14' }
+{ message: 'Unhandled rejection error: users is not defined',
+  level: 'error',
+  timestamp: '26-04-2020 13:02:18' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 13:02:48' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 13:02:48' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 13:02:48' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 13:02:48' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 13:02:48' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 13:02:48' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 13:02:48' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 13:02:48' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 13:02:48' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 13:02:48' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 13:02:48' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 13:02:48' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 13:02:48' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 13:02:48' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 13:02:48' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 13:02:49' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 13:02:49' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 13:02:49' }
+{ message:
+   'ERROR 404 Not Found, The board with id e4070553-4c79-4352-b69d-3d0bdc4e64dd does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 13:02:49' }
+{ message:
+   'ERROR 404 Not Found, The board with id 52041638-a132-49bc-9d45-0b10b1e7d5fc does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 13:02:50' }
+{ message:
+   'ERROR 404 Not Found, The board with id 52041638-a132-49bc-9d45-0b10b1e7d5fc does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 13:02:50' }
+{ message:
+   'ERROR 404 Not Found, The board with id 52041638-a132-49bc-9d45-0b10b1e7d5fc does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 13:02:50' }
+{ message:
+   'ERROR 404 Not Found, The board with id 52041638-a132-49bc-9d45-0b10b1e7d5fc does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 13:02:50' }
+{ message:
+   'ERROR 404 Not Found, The board with id 52041638-a132-49bc-9d45-0b10b1e7d5fc does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 13:02:50' }
+{ message:
+   'ERROR 404 Not Found, The board with id e727ee37-bb58-4f52-85a9-42140852d73a does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 13:02:50' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 13:04:25' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 13:04:25' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 13:04:25' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 13:04:25' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 13:04:25' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 13:04:25' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 13:04:25' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 13:04:25' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 13:04:25' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 13:04:25' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 13:04:25' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 13:04:25' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 13:04:25' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 13:04:25' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 13:04:25' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 13:04:25' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 13:04:25' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 13:04:26' }
+{ message:
+   'ERROR 404 Not Found, The board with id 89fa87b8-8782-4e7d-9e43-67264c483c21 does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 13:04:26' }
+{ message:
+   'ERROR 404 Not Found, The board with id 6d8e9e3f-b7c7-4829-8796-ec8691d0ba62 does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 13:04:27' }
+{ message:
+   'ERROR 404 Not Found, The board with id 6d8e9e3f-b7c7-4829-8796-ec8691d0ba62 does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 13:04:27' }
+{ message:
+   'ERROR 404 Not Found, The board with id 6d8e9e3f-b7c7-4829-8796-ec8691d0ba62 does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 13:04:27' }
+{ message:
+   'ERROR 404 Not Found, The board with id 6d8e9e3f-b7c7-4829-8796-ec8691d0ba62 does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 13:04:27' }
+{ message:
+   'ERROR 404 Not Found, The board with id 6d8e9e3f-b7c7-4829-8796-ec8691d0ba62 does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 13:04:27' }
+{ message:
+   'ERROR 404 Not Found, The board with id ec20d261-cab9-4026-97cc-0e0c021edf0f does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 13:04:27' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 13:04:57' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 13:04:57' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 13:04:57' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 13:04:57' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 13:04:57' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 13:04:58' }
+{ message:
+   'ERROR 404 Not Found, The board with id 750e3580-1c53-40d0-ab9e-15440e7d0029 does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 13:04:59' }
+{ message:
+   'ERROR 404 Not Found, The board with id 5959b496-5e72-4a44-85aa-057b4fca9374 does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 13:04:59' }
+{ message:
+   'ERROR 404 Not Found, The board with id 653bf960-eb39-4572-921c-0ded86d56953 does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 13:04:59' }
+{ message:
+   'ERROR 404 Not Found, The board with id 653bf960-eb39-4572-921c-0ded86d56953 does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 13:04:59' }
+{ message:
+   'ERROR 404 Not Found, The board with id 653bf960-eb39-4572-921c-0ded86d56953 does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 13:04:59' }
+{ message:
+   'ERROR 404 Not Found, The board with id 653bf960-eb39-4572-921c-0ded86d56953 does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 13:04:59' }
+{ message:
+   'ERROR 404 Not Found, The board with id 653bf960-eb39-4572-921c-0ded86d56953 does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 13:04:59' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 13:05:03' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 13:05:08' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 13:05:13' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 13:05:18' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 13:07:10' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 13:07:10' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 13:07:10' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 13:07:10' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 13:07:10' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 13:07:10' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 13:07:10' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 13:07:10' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 13:07:10' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 13:07:10' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 13:07:11' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 13:07:11' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 13:07:11' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 13:07:11' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 13:07:11' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 13:07:11' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 13:07:11' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 13:07:11' }
+{ message:
+   'ERROR 404 Not Found, The board with id 23cbe63c-3792-43f6-a27e-774425768670 does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 13:07:12' }
+{ message:
+   'ERROR 404 Not Found, The board with id a832bf5f-73a3-4323-8e65-2e1fa9c09ca6 does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 13:07:12' }
+{ message:
+   'ERROR 404 Not Found, The board with id a832bf5f-73a3-4323-8e65-2e1fa9c09ca6 does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 13:07:12' }
+{ message:
+   'ERROR 404 Not Found, The board with id a832bf5f-73a3-4323-8e65-2e1fa9c09ca6 does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 13:07:12' }
+{ message:
+   'ERROR 404 Not Found, The board with id a832bf5f-73a3-4323-8e65-2e1fa9c09ca6 does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 13:07:12' }
+{ message:
+   'ERROR 404 Not Found, The board with id a832bf5f-73a3-4323-8e65-2e1fa9c09ca6 does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 13:07:12' }
+{ message:
+   'ERROR 404 Not Found, The board with id 73c709ac-431e-48d0-bbeb-78c1ee0694f6 does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 13:07:12' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 13:10:00' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 13:10:00' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 13:10:00' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 13:10:00' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 13:10:00' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 13:10:01' }
+{ message:
+   'ERROR 404 Not Found, The board with id 7ba1cdb0-3658-41d9-ba56-c95bba3ad1a0 does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 13:10:02' }
+{ message:
+   'ERROR 404 Not Found, The board with id 309cc739-4cd9-4ab1-913b-7369e8a09197 does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 13:10:02' }
+{ message:
+   'ERROR 404 Not Found, The board with id 3c45b1c1-0b97-48b5-b12a-23e7983652b3 does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 13:10:02' }
+{ message:
+   'ERROR 404 Not Found, The board with id 3c45b1c1-0b97-48b5-b12a-23e7983652b3 does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 13:10:02' }
+{ message:
+   'ERROR 404 Not Found, The board with id 3c45b1c1-0b97-48b5-b12a-23e7983652b3 does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 13:10:02' }
+{ message:
+   'ERROR 404 Not Found, The board with id 3c45b1c1-0b97-48b5-b12a-23e7983652b3 does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 13:10:02' }
+{ message:
+   'ERROR 404 Not Found, The board with id 3c45b1c1-0b97-48b5-b12a-23e7983652b3 does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 13:10:02' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 13:10:06' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 13:10:11' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 13:10:16' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 13:10:21' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 13:13:14' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 13:13:14' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 13:13:14' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 13:13:14' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 13:13:14' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 13:13:14' }
+{ message:
+   'ERROR 404 Not Found, The board with id 8b684f19-8f0e-47bf-945a-63b0e5a38100 does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 13:13:15' }
+{ message:
+   'ERROR 404 Not Found, The board with id 5a4515e7-98f6-4eeb-ae40-d06c5cb048fd does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 13:13:16' }
+{ message:
+   'ERROR 404 Not Found, The board with id af1ae987-4160-4ae7-884e-c16411649dfd does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 13:13:16' }
+{ message:
+   'ERROR 404 Not Found, The board with id af1ae987-4160-4ae7-884e-c16411649dfd does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 13:13:16' }
+{ message:
+   'ERROR 404 Not Found, The board with id af1ae987-4160-4ae7-884e-c16411649dfd does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 13:13:16' }
+{ message:
+   'ERROR 404 Not Found, The board with id af1ae987-4160-4ae7-884e-c16411649dfd does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 13:13:16' }
+{ message:
+   'ERROR 404 Not Found, The board with id af1ae987-4160-4ae7-884e-c16411649dfd does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 13:13:16' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 13:13:19' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 13:13:24' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 13:13:29' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 13:13:34' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 13:14:25' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 13:14:25' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 13:14:25' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 13:14:25' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 13:14:25' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 13:14:25' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 13:14:25' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 13:14:25' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 13:14:25' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 13:14:25' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 13:14:26' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 13:14:26' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 13:14:26' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 13:14:26' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 13:14:26' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 13:14:26' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 13:14:26' }
+{ message:
+   'ERROR 404 Not Found, The board with id 75c42e97-b195-42e6-a5ed-c7d37f502018 does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 13:14:27' }
+{ message:
+   'ERROR 404 Not Found, The board with id dc3a438c-49af-41c8-93bc-f324b8744b13 does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 13:14:27' }
+{ message:
+   'ERROR 404 Not Found, The board with id 41d4347b-6703-438d-995c-3e5cba925cca does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 13:14:27' }
+{ message:
+   'ERROR 404 Not Found, The board with id 41d4347b-6703-438d-995c-3e5cba925cca does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 13:14:27' }
+{ message:
+   'ERROR 404 Not Found, The board with id 41d4347b-6703-438d-995c-3e5cba925cca does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 13:14:27' }
+{ message:
+   'ERROR 404 Not Found, The board with id 41d4347b-6703-438d-995c-3e5cba925cca does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 13:14:27' }
+{ message:
+   'ERROR 404 Not Found, The board with id 41d4347b-6703-438d-995c-3e5cba925cca does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 13:14:27' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 13:17:53' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 13:17:53' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 13:17:53' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 13:17:53' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 13:17:53' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 13:17:53' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 13:17:53' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 13:17:53' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 13:17:53' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 13:17:53' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 13:17:54' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 13:17:54' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 13:17:54' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 13:17:54' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 13:17:54' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 13:17:54' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 13:17:54' }
+{ message:
+   'ERROR 404 Not Found, The board with id ed943010-3233-432e-af90-e690c639aec5 does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 13:17:55' }
+{ message:
+   'ERROR 404 Not Found, The board with id 13f8f26f-0941-4019-9a9e-5f9025bb9818 does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 13:17:55' }
+{ message:
+   'ERROR 404 Not Found, The board with id 99fb2d71-f2d2-4541-bef4-03270f94557a does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 13:17:55' }
+{ message:
+   'ERROR 404 Not Found, The board with id 99fb2d71-f2d2-4541-bef4-03270f94557a does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 13:17:55' }
+{ message:
+   'ERROR 404 Not Found, The board with id 99fb2d71-f2d2-4541-bef4-03270f94557a does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 13:17:55' }
+{ message:
+   'ERROR 404 Not Found, The board with id 99fb2d71-f2d2-4541-bef4-03270f94557a does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 13:17:55' }
+{ message:
+   'ERROR 404 Not Found, The board with id 99fb2d71-f2d2-4541-bef4-03270f94557a does not exist',
+  level: 'error',
+  timestamp: '26-04-2020 13:17:55' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 13:21:30' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 13:21:38' }
+{ message: 'Unhandled rejection error: awausers is not defined',
+  level: 'error',
+  timestamp: '26-04-2020 13:22:07' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 13:22:10' }
+{ message:
+   'Unhandled rejection error: Status code does not exist: No token provided',
+  level: 'error',
+  timestamp: '26-04-2020 13:22:54' }
+{ message: 'ERROR 500 Server Error, Server Error',
+  level: 'error',
+  timestamp: '26-04-2020 13:33:26' }

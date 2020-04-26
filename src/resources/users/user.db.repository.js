@@ -6,16 +6,15 @@ const getAll = async () => {
 };
 
 const addNewUser = async user => {
-  return User.create(user);
+  return await User.create(user);
 };
 
 const getUserById = async id => {
-  return User.findById(id);
+  return User.findOne({ _id: id });
 };
 
 const updateUser = async (id, body) => {
   const user = await User.updateOne({ _id: id }, body);
-  console.log('PUT › should update user successfully: ', user);
   return User.toResponse(user);
 };
 

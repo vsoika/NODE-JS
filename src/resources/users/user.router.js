@@ -7,7 +7,6 @@ const { BAD_REQUEST, NOT_FOUND, getStatusText } = require('http-status-codes');
 router.route('/').get(
   catchError(async (req, res) => {
     const users = await usersService.getAll();
-    console.log('GET › should get all users: ', users);
     res.json(users.map(User.toResponse));
   })
 );
@@ -48,11 +47,10 @@ router.route('/:id').get(
 router.route('/:id').put(
   catchError(async (req, res) => {
     const { id } = req.params;
-    console.log('PUT, req.body: ', req.body);
     const user = await usersService.updateUser(id, req.body);
 
     if (user) {
-      // res.status(200).json(User.toResponse(user));
+      res.status(200).json(User.toResponse(user));
     } else {
       const message = `The user with id ${id} does not exist`;
       res.status(NOT_FOUND).send({ error: message });

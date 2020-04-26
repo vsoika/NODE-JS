@@ -13,7 +13,7 @@ const swaggerDocument = YAML.load(path.join(__dirname, '../doc/api.yaml'));
 
 const logsHandler = require('./middlewares/logsHandler');
 const { errorHandler } = require('./middlewares/errorHandler');
-const { checkToken } = require('./resources/login/login.service');
+const checkToken = require('./middlewares/checkToken');
 
 app.use(express.json());
 
@@ -30,12 +30,9 @@ app.use('/', (req, res, next) => {
 app.use(logsHandler);
 
 app.use('/login', loginRouter);
-
-// app.get('/users', checkToken, userRouter);
-
 app.use('/users', checkToken, userRouter);
-app.use('/boards', boardRouter);
-app.use('/boards/:boardId/tasks', taskRouter);
+app.use('/boards', checkToken, boardRouter);
+app.use('/boards/:boardId/tasks', checkToken, taskRouter);
 
 app.use(errorHandler);
 

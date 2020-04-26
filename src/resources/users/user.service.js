@@ -1,34 +1,28 @@
 const usersRepo = require('./user.db.repository');
-// const User = require('./user.model');
-
 const bcrypt = require('bcrypt');
 const saltRounds = 10;
 
 const getAll = async () => await usersRepo.getAll();
 
 const addNewUser = async user => {
-  bcrypt.hash(user.password, saltRounds, async (err, hash) => {
+  await bcrypt.hash(user.password, saltRounds, (err, hash) => {
     if (err) return;
     user.password = hash;
-    const newUser = await usersRepo.addNewUser(user);
-    return newUser;
   });
+
+  return await usersRepo.addNewUser(user);
 };
 
 const getUserById = async id => {
-  const user = await usersRepo.getUserById(id);
-  return user;
+  return await usersRepo.getUserById(id);
 };
 
 const updateUser = async (id, body) => {
-  const user = await usersRepo.updateUser(id, body);
-  console.log('updateUser service: ', user);
-  return user;
+  return await usersRepo.updateUser(id, body);
 };
 
 const deleteUser = async id => {
-  const user = await usersRepo.deleteUser(id);
-  return user;
+  return await usersRepo.deleteUser(id);
 };
 
 module.exports = {
